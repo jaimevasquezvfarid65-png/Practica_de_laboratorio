@@ -1,3 +1,6 @@
+
+print("Hola mundo")
+print("Hola, soy adrian")
 print("Jhajaira Roxana Chávez Díaz")
 
 print("1. ¿Qué dificultades encontraste al configurar Git y GitHub?")
@@ -13,4 +16,5 @@ print("4. ¿Qué harías diferente en una futura sesión de control de versiones
 print("Mejoraria mejor las ramas, tambien trataria de que los commits sean mas claros. ")
 
 print("Hola mundo")
+
 
