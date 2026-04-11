@@ -11,3 +11,6 @@ print("Genera un espacio en el que barias personas puedan trabajar al mismo tiem
 
 print("4. ¿Qué harías diferente en una futura sesión de control de versiones?")
 print("Mejoraria mejor las ramas, tambien trataria de que los commits sean mas claros. ")
+
+print("Hola mundo")
+
